@@ -6,7 +6,7 @@ A modern, full-featured remote job portal built with Next.js, React, Redux Toolk
 
 ## 🌐 Live Demo
 
-job-portal-swart-one.vercel.app
+https://job-portal-swart-one.vercel.app/
 
 ---
 
