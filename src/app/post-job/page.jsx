@@ -8,7 +8,7 @@ import StepOne from './StepOne'
 import StepTwo from './StepTwo'
 import StepThree from './StepThree'
 
-export default function page() {
+export default function PostJob() {
   const router = useRouter()
   const reduxDispatch = useDispatch()
   const existingJobs = useSelector((s) => s.jobs.jobs)
