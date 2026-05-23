@@ -1,5 +1,4 @@
 # 💼 Job Portal
->>>>>>> f9da5789f18a9f4b7283aa04a2e852068a2d1347
 
 A modern, full-featured remote job portal built with Next.js, React, Redux Toolkit, and Tailwind CSS. Browse thousands of remote jobs, save your favorites, and post new opportunities — all in one place.
 
@@ -7,7 +6,7 @@ A modern, full-featured remote job portal built with Next.js, React, Redux Toolk
 
 ## 🌐 Live Demo
 
-[View Live →](job-portal-swart-one.vercel.app)
+View Live → job-portal-swart-one.vercel.app
 
 ---
 
