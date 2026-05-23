@@ -8,8 +8,8 @@ export default function page() {
   const [isEditing, setIsEditing] = useState(false)
 
   const [profile, setProfile] = useState({
-    name: 'Your Name',
-    email: 'your@email.com',
+    name: 'Udbhav Singh',
+    email: 'singh.rishi.0100@email.com',
     location: 'India',
     bio: 'Full stack developer...',
     skills: ['React', 'Node.js', 'Java']
