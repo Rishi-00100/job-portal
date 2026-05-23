@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-=======
 # 💼 Job Portal
 >>>>>>> f9da5789f18a9f4b7283aa04a2e852068a2d1347
 
@@ -11,13 +7,7 @@ A modern, full-featured remote job portal built with Next.js, React, Redux Toolk
 
 ## 🌐 Live Demo
 
-[View Live →](https://your-vercel-url.vercel.app)
-
----
-
-## 📸 Screenshots
-
-> Add screenshots here after deployment
+[View Live →](job-portal-swart-one.vercel.app)
 
 ---
 
